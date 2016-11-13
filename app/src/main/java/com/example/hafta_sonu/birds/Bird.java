@@ -10,6 +10,10 @@ public class Bird {
 
     public Bird() {
         this.type = "Güvercin";
+
+
+
+
     }
 
     public String getType() {
